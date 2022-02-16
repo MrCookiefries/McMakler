@@ -13,4 +13,3 @@ I used raw JS with the helper library of Axios to make AJAX requests. I felt lik
 The API endpoint wasn't giving out the data that I needed, so I still wrote in the code I would've used, and kept the sample data so you could see the design used.
 
 [challenge]: https://github.com/mcmakler/frontend-code-challenge
-# McMakler
